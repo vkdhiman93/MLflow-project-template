@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 ## edit below variables as per your requirements -
 REPO_NAME = "MLflow-project-template"
-AUTHOR_USER_NAME = "c17hawke"
+AUTHOR_USER_NAME = "vkdhiman93"
 SRC_REPO = "src"
 LIST_OF_REQUIREMENTS = []
 
